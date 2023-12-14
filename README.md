@@ -31,9 +31,7 @@ The MovieLens dataset doesn't have explicit tags for each movie, and the dataset
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- https://github.com/vnyreddy/Capstone/blob/master/MovieRecommendation.ipynb
 
 
 ##### Contact and Further Information
